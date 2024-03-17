@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KanjiDefferenceHunt_20240313", "KanjiDefferenceHunt_20240313\KanjiDefferenceHunt_20240313.vbproj", "{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCDE8EA-4F19-4BC3-92B9-F4AED6273F69}
+	EndGlobalSection
+EndGlobal
