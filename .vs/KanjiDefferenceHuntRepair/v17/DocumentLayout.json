@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHuntRepair.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\kanjidefferencehuntrepair\\kanjidefferencehunt_20240313\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHuntRepair.vbproj|solutionrelative:kanjidefferencehunt_20240313\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHunt_20240313.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\kanjidefferencehuntrepair\\kanjidefferencehunt_20240313\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHunt_20240313.vbproj|solutionrelative:kanjidefferencehunt_20240313\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHuntRepair.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair\\kanjidefferencehunt_20240313\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHuntRepair.vbproj|solutionrelative:kanjidefferencehunt_20240313\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHuntRepair.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair\\kanjidefferencehunt_20240313\\kanjidefferencehuntrepair.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6D9801F7-0992-4025-ACE6-C4FF14B64EE1}|KanjiDefferenceHunt_20240313\\KanjiDefferenceHuntRepair.vbproj|solutionrelative:kanjidefferencehunt_20240313\\kanjidefferencehuntrepair.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair\\kanjidefferencehunt_20240313\\kanjidefferencehuntrepair.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kanjidefferencehunt_20240313\\kanjidefferencehuntrepair.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,9 +30,9 @@
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair\\KanjiDefferenceHunt_20240313\\Form1.vb",
               "RelativeDocumentMoniker": "KanjiDefferenceHunt_20240313\\Form1.vb",
-              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair\\KanjiDefferenceHunt_20240313\\Form1.vb*",
-              "RelativeToolTip": "KanjiDefferenceHunt_20240313\\Form1.vb*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair\\KanjiDefferenceHunt_20240313\\Form1.vb",
+              "RelativeToolTip": "KanjiDefferenceHunt_20240313\\Form1.vb",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-13T11:56:49.815Z",
               "IsPinned": true,
