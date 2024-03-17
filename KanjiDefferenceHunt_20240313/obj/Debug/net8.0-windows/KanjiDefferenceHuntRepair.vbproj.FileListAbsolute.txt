@@ -1,0 +1,7 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair\KanjiDefferenceHunt_20240313\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair.FormGame.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair\KanjiDefferenceHunt_20240313\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair.vbproj.GenerateResource.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair\KanjiDefferenceHunt_20240313\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair\KanjiDefferenceHunt_20240313\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair\KanjiDefferenceHunt_20240313\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair\KanjiDefferenceHunt_20240313\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair\KanjiDefferenceHunt_20240313\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair.sourcelink.json

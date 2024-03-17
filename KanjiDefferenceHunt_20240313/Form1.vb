@@ -18,16 +18,18 @@
             If nowTime < shortestTime Then
                 shortestTime = nowTime      '最短時間の変数に今回の時間を格納
             End If
+
             'メッセージを表示
             MessageBox.Show("最短クリア時間：" & shortestTime.ToString("0.00") &
                             vbCrLf &
                             "前回クリア時間：" & previousTime.ToString("0.00"))
+
+            '前回クリア時間として保持
+            previousTime = nowTime
         Else
             nowTime = nowTime + 10  'ペナルティー10秒
         End If
 
-        '前回タイムとして更新する
-        previousTime = nowTime
     End Sub
 
     'スタートボタンをクリックした時
